@@ -67,10 +67,4 @@ Enter Name: Aman
 Enter Email: amit@email.com
 Student added successfully.
 
-
-Enter choice: 2
-Enter Course ID: 2001
-Enter Course Name: Java Programming
-Enter Fee: 3000
-Course added successfully.
 ------------------------------------------------------------------------------------------------
